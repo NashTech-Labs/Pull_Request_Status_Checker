@@ -18,8 +18,8 @@ This Python script fetches and displays the status of pull requests (PRs) for a 
 1. **Clone the repository:**
  
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
+    git clone https://github.com/NashTech-Labs/Pull_Request_Status_Checker/.git
+    cd Pull_Request_Status_Checker
     ```
 
 2. **Install required packages:**
